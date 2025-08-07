@@ -1,6 +1,6 @@
 # Foro Hub
 
-Foro Hub es una API REST construida con Spring Boot que permite gestionar tópicos de discusión en un foro. Implementa autenticación con JWT, manejo de roles y estructura limpia siguiendo buenas prácticas de desarrollo web.
+Foro Hub es una API REST construida con Spring Boot que permite gestionar tópicos de discusión en un foro. Implementa autenticación con JWT y estructura limpia siguiendo buenas prácticas de desarrollo web.
 
 ## Características
 
